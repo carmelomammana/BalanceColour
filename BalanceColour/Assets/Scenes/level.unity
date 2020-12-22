@@ -1222,6 +1222,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Plane
       objectReference: {fileID: 0}
+    - target: {fileID: 5617585215480449252, guid: f83a76be3c86ac3428ddf1a7631bd526,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.0414226
+      objectReference: {fileID: 0}
+    - target: {fileID: 5617585215480449252, guid: f83a76be3c86ac3428ddf1a7631bd526,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.020711264
+      objectReference: {fileID: 0}
     - target: {fileID: 7848163209853033170, guid: f83a76be3c86ac3428ddf1a7631bd526,
         type: 3}
       propertyPath: m_LocalPosition.x
